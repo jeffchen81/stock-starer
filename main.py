@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# another: Jeff.Chen
 from bottle import route, run, template
 
 
@@ -9,12 +11,12 @@ def index(name):
 run(host='localhost', port=8080)
 
 
-def main():
-    '''
-    主函数
-    '''
-    pass
+# def main():
+#     '''
+#     主函数
+#     '''
+#     pass
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
