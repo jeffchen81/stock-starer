@@ -105,3 +105,6 @@ venv.bak/
 
 # mac
 .DS_Store
+
+# stock采集数据
+2018*.txt
