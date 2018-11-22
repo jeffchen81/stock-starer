@@ -25,7 +25,7 @@ def collect_stock(stock_code):
 
     response = requests.request("GET", url, headers=headers)
 
-    #print(response.text)
+    # print(response.text)
     return str(response.text)
 
 
