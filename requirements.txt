@@ -1,6 +1,6 @@
 astroid==1.6.5
 backports.functools-lru-cache==1.5
-bottle==0.12.13
+bottle==0.12.20
 bottle-sqlalchemy==0.4.3
 certifi==2018.10.15
 chardet==3.0.4
